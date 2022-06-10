@@ -4,14 +4,14 @@ Send emails that are on file email.json.
 
 ## Configuration
 
-Configure on main.py the following variables:
-    HOST=""#example: smtp.gmail.com
-    PORT="" #example: 587
-    MAIL=""#example: example@example.com
-    PASSWORD=""#example: password
+Configure on main.py the following variables:</br>
+    HOST=""#example: smtp.gmail.com</br>
+    PORT="" #example: 587</br>
+    MAIL=""#example: example@example.com</br>
+    PASSWORD=""#example: password</br>
 
-Format of email.json:
-    {"email": "email@email.com","subject": "Funny subject","body": "Super funny body"}
+Format of email.json:</br>
+    {"email": "email@email.com","subject": "Funny subject","body": "Super funny body"}</br>
 
 Only one email json per line.
 ## Usage
